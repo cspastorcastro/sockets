@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "T:\\Sockets\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|t:\\sockets\\munditosocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|solutionrelative:munditosocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|t:\\sockets\\sockets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|solutionrelative:sockets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|t:\\sockets\\munditosocket\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|solutionrelative:munditosocket\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|t:\\sockets\\munditosocket\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79A584B0-9102-414C-B505-96356615034D}|MunditoSocket\\MunditoSocket.csproj|solutionrelative:munditosocket\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|t:\\sockets\\sockets\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|solutionrelative:sockets\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|t:\\sockets\\sockets\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB717476-ABB3-49BF-A566-35D2567B96FC}|Sockets\\Sockets.csproj|solutionrelative:sockets\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Sockets\\Sockets\\Program.cs",
+              "RelativeDocumentMoniker": "Sockets\\Program.cs",
+              "ToolTip": "T:\\Sockets\\Sockets\\Program.cs",
+              "RelativeToolTip": "Sockets\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:42:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\Sockets\\Sockets\\App.config",
+              "RelativeDocumentMoniker": "Sockets\\App.config",
+              "ToolTip": "T:\\Sockets\\Sockets\\App.config",
+              "RelativeToolTip": "Sockets\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-02T23:41:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\Sockets\\MunditoSocket\\App.config",
+              "RelativeDocumentMoniker": "MunditoSocket\\App.config",
+              "ToolTip": "T:\\Sockets\\MunditoSocket\\App.config",
+              "RelativeToolTip": "MunditoSocket\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-02T23:35:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "T:\\Sockets\\Sockets\\Comunicacion\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "Sockets\\Comunicacion\\ServerSocket.cs",
+              "ToolTip": "T:\\Sockets\\Sockets\\Comunicacion\\ServerSocket.cs",
+              "RelativeToolTip": "Sockets\\Comunicacion\\ServerSocket.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:56:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteSocket.cs",
+              "DocumentMoniker": "T:\\Sockets\\MunditoSocket\\Comunicacion\\ClienteSocket.cs",
+              "RelativeDocumentMoniker": "MunditoSocket\\Comunicacion\\ClienteSocket.cs",
+              "ToolTip": "T:\\Sockets\\MunditoSocket\\Comunicacion\\ClienteSocket.cs",
+              "RelativeToolTip": "MunditoSocket\\Comunicacion\\ClienteSocket.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:55:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Sockets\\MunditoSocket\\Program.cs",
+              "RelativeDocumentMoniker": "MunditoSocket\\Program.cs",
+              "ToolTip": "T:\\Sockets\\MunditoSocket\\Program.cs",
+              "RelativeToolTip": "MunditoSocket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:51:53.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

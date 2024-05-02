@@ -31,7 +31,7 @@ namespace Sockets
                     cliente.Escribir("Hola cliente, dime tu nombre.");
                     string respuesta = cliente.Leer();
                     Console.WriteLine("El cliente se llama {0}.", respuesta);
-                    cliente.Escribir("Gracias, nos vemos.");
+                    cliente.Escribir("Gracias " + respuesta + ", nos vemos.");
                     cliente.Desconectar();
                 }
 

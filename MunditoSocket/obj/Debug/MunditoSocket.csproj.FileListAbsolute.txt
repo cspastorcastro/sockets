@@ -1,0 +1,7 @@
+T:\Sockets\MunditoSocket\bin\Debug\MunditoSocket.exe.config
+T:\Sockets\MunditoSocket\bin\Debug\MunditoSocket.exe
+T:\Sockets\MunditoSocket\bin\Debug\MunditoSocket.pdb
+T:\Sockets\MunditoSocket\obj\Debug\MunditoSocket.csproj.AssemblyReference.cache
+T:\Sockets\MunditoSocket\obj\Debug\MunditoSocket.csproj.CoreCompileInputs.cache
+T:\Sockets\MunditoSocket\obj\Debug\MunditoSocket.exe
+T:\Sockets\MunditoSocket\obj\Debug\MunditoSocket.pdb
